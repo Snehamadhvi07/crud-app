@@ -5,14 +5,14 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/SafdarJamal/crud-app/actions?query=workflow%3A%22Node.js+CI%22">
-    <img src="https://github.com/SafdarJamal/crud-app/workflows/Node.js%20CI/badge.svg" alt="Node.js CI" />
+  <a href="https://github.com/Snehamadhvi07/crud-app/actions?query=workflow%3A%22Node.js+CI%22">
+    <img src="https://github.com/Snehamadhvi07/crud-app/workflows/Node.js%20CI/badge.svg" alt="Node.js CI" />
   </a>
-  <a href="https://github.com/SafdarJamal/crud-app/releases">
-    <img src="https://img.shields.io/github/v/release/SafdarJamal/crud-app" alt="GitHub Release (latest by date)" />
+  <a href="https://github.com/Snehamadhvi07/crud-app/releases">
+    <img src="https://img.shields.io/github/v/release/Snehamadhvi07/crud-app" alt="GitHub Release (latest by date)" />
   </a>
-  <a href="https://github.com/SafdarJamal/crud-app/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/SafdarJamal/crud-app" alt="License" />
+  <a href="https://github.com/Snehamadhvi07/crud-app/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/Snehamadhvi07/crud-app" alt="License" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@
 To get a local copy of the code, clone it using git:
 
 ```
-git clone https://github.com/SafdarJamal/crud-app.git
+git clone https://github.com/Snehamadhvi07/crud-app.git
 cd crud-app
 ```
 
@@ -66,4 +66,4 @@ CRUD App is built and maintained by [Sneha S](https://Snehamadhvi07.github.io).
 
 ## License
 
-CRUD App is open-source software licensed under the [MIT License](https://github.com/SafdarJamal/crud-app/blob/master/LICENSE).
+CRUD App is open-source software licensed under the [MIT License](https://github.com/Snehamadhvi07/crud-app/blob/master/LICENSE).
