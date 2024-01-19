@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://safdarjamal.github.io/crud-app/">
+  <a href="https://Snehamadhvi07.github.io/crud-app/">
     CRUD App
   </a>
 </h1>
