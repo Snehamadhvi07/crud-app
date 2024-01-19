@@ -62,7 +62,7 @@ and then you can open http://localhost:3000 to view it in the browser.
 
 ## Credits
 
-CRUD App is built and maintained by [Safdar Jamal](https://safdarjamal.github.io).
+CRUD App is built and maintained by [Sneha S](https://Snehamadhvi07.github.io).
 
 ## License
 
